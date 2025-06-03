@@ -49,6 +49,7 @@ body {
 
 .twitter { background: rgba(29, 161, 242, 0.8); }
 .telegram { background: rgba(0, 136, 204, 0.8); }
+.report { background: rgba(26, 181, 106, 0.8); }
 
 .social-btn:hover {
   transform: translateY(-5px);
